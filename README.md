@@ -3,7 +3,7 @@
 MERCADINHO SILVA & LIRA
   
 
-  <img src="./logo-silva-lira.jpg" alt="Logo Silva & Lira" width="400" />
+  <img src="./logo-silva-lira.jpg" alt="Logo Silva & Lira" width="200" />
 </div>
 
 </div>
