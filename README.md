@@ -1,6 +1,7 @@
 🛒 Sistema de Gerenciamento - Mercadinho Silva & Lira
 <div align="center">
   <img src="./logo-silva-lira.jpg" alt="Logo Silva & Lira" width="200" />
+  
 Sistema completo de gerenciamento de estoque e vendas para pequenos mercados
 Mostrar Imagem
 Mostrar Imagem
