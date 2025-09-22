@@ -35,8 +35,8 @@ Melhorar a eficiência operacional do estabelecimento
 
 | Nome | Função | GitHub |
 |------|--------|--------|
-| **Matheus Lira** | Desenvolvedor Full Stack | [@matheusira](https://github.com/matheusira) |
-| **Lucas dos Santos** | Desenvolvedor Backend | [@lucassantos](https://github.com/lucassantos) |
-| **Jeremias Souza** | Desenvolvedor Frontend | [@jeremiassouza](https://github.com/jeremiassouza) |
-| **Thiago Nunes** | Analista de Sistemas | [@thiagonunes](https://github.com/thiagonunes) |
+| **Matheus Lira** | Desenvolvedor Full Stack | [@MatheusLiraSantos]([https://github.com/matheusira](https://github.com/MatheusLiraSantos)) |
+| **Lucas dos Santos** | Desenvolvedor Backend | [@lLucasSantos-C]([https://github.com/lucassantos](https://github.com/LucasSantos-C)) |
+| **Jeremias Souza** | Desenvolvedor Frontend | [@jeremiasoul]([https://github.com/jeremiassouza](https://github.com/jeremiasoul)) |
+| **Thiago Nunes** | Analista de Sistemas | [@thiagonunes](jaja ele chega) |
 
