@@ -27,9 +27,9 @@ Melhorar a eficiência operacional do estabelecimento
 
 👨‍💻 Gerente
 
-📈 Gerar Relatórios de Venda: Análises detalhadas de desempenho
-🗑️ Remover Produtos: Gerenciamento do catálogo de produtos
-👥 Gerenciar Funcionários: Controle de acesso e permissões
+📈 Gerar Relatórios de Venda: Análises detalhadas de desempenho <br>
+🗑️ Remover Produtos: Gerenciamento do catálogo de produtos <br>
+👥 Gerenciar Funcionários: Controle de acesso e permissões <br>
 
 ## 👥 Equipe de Desenvolvimento
 
