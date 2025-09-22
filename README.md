@@ -20,10 +20,10 @@ Melhorar a eficiência operacional do estabelecimento
 
 👨‍💼 Funcionário
 
-📦 Registrar Vendas: Sistema ágil para registro de transações
-📊 Ver Estoque: Consulta em tempo real dos produtos disponíveis
-🔄 Registrar Reestoque: Controle de entrada de mercadorias
-➕ Registrar Novos Produtos: Cadastro de itens no sistema
+📦 Registrar Vendas: Sistema ágil para registro de transações <br>
+📊 Ver Estoque: Consulta em tempo real dos produtos disponíveis <br>
+🔄 Registrar Reestoque: Controle de entrada de mercadorias <br>
+➕ Registrar Novos Produtos: Cadastro de itens no sistema <br>
 
 👨‍💻 Gerente
 
