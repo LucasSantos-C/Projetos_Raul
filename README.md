@@ -7,7 +7,7 @@ MERCADINHO SILVA & LIRA
 </div>
 
 </div>
-📋 Sobre o Projeto
+📋 Sobre o Projeto <br>
 O Sistema de Gerenciamento Silva & Lira foi desenvolvido especificamente para otimizar as operações do mercadinho, oferecendo uma solução completa para controle de estoque, registro de vendas e geração de relatórios administrativos.<br>
 <br>🎯 Objetivos
 
